@@ -14,16 +14,16 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Description: ScriptableObjects often hold data that does not need to change at
     runtime. Add to the credits list to modify the Credits Screen.
-  m_Title: Example Title
+  m_Title: jkjkjk
   m_SubHeading: Modify this subheading
   m_Credits:
   - Name: Marcus Aurelius
     Role: Lead developer
-  - Name: Calpurnia Flavia
+  - Name: asdgsf
     Role: Developer
   - Name: Valerius Maximus
     Role: Lead artist
   - Name: Agrippina the Younger
     Role: Artist
-  - Name: Agrippina the Elder
+  - Name: affafas
     Role: Technical artist
